@@ -1,0 +1,65 @@
+/* PASO 1: */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: arial;
+    font-size: 16px;
+}
+
+/* PASO 2: aplicasr formato al formulario */
+.formulario{
+    width: 500px;
+    background-color:rgb(28, 28, 94);
+    color: #fff;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* PASO 3: aplicar formato al tirulo */
+.titulo{
+    font-size: 20px;
+    margin-bottom: 25px;
+    font-style: oblique;
+}
+
+/* PASO 4:aplicar formato a todos los controles */
+.controles{
+    width: 100%;
+    border-radius: 5px;
+    /* background-color: ; */
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+/* PASO 5:plicar formato a los grupos */
+.grupo{
+    padding: 15px;
+    margin-bottom: 13px;
+    text-align: left;
+}
+
+/* PASO 6: plicar formato a los elementos de seccion */
+.radio{
+    margin-bottom: 10px;
+    margin-left: 25px;
+}
+/* PASO 7: formato de botones */
+.boton{
+    width: 150px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 8px;
+}
+/* PASO 8: aplicar fprmato etiqueta p */
+.formulario p{
+    padding: 25px;
+}
+
+/* PASO 9: quitar color etiqueta a */
+.formulario a{
+    color: #fff;
+}
